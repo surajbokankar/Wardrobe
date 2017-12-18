@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--GOOGLE BUTTON STYLE-->
+    <style name="google_btn_style" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_google_selector</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:gravity" >center</item>
+        <item name="android:textSize" >14sp</item>
+        <!--<item name="android:opacity">12</item>-->
+    </style>
+
+    <!--FACEBOOK BUTTON STYLE-->
+    <style name="facebook_btn_style" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_facebook_selector</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:gravity" >center</item>
+        <item name="android:textSize" >14sp</item>
+        <!--<item name="android:opacity">12</item>-->
+    </style>
+
+    <style name="crafts_toolbar_style" parent="Base.Theme.AppCompat.Light">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:background">@drawable/toolbar_bg_prelolipop</item>
+    </style>
+
+</resources>

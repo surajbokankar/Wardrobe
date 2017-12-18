@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mNavigationLayout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dime_56dp"
+    android:background="@drawable/bottom_navigation_shadow"
+    android:baselineAligned="false"
+    android:clipToPadding="false"
+    android:elevation="@dimen/dimen_2dp"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/dimen_1dp"
+    >
+
+
+        <LinearLayout
+            android:id="@+id/add_cloths_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/dimen_6dp"
+            android:paddingTop="@dimen/dimen_8dp">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/add_cloths_new"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_20dp"
+                android:gravity="center"
+                app:srcCompat="@drawable/ic_before_add_cloths" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/add_new_cloth_TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_6dp"
+                android:gravity="center"
+                android:text="@string/add"
+                android:textSize="@dimen/dimen_12sp"
+                android:textColor="@color/color_000000"
+                android:alpha="0.54"
+                />
+        </LinearLayout>
+        <View
+            android:layout_width="@dimen/dimen_0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/color_0d000000"
+            ></View>
+        <LinearLayout
+            android:id="@+id/style_today_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/dimen_6dp"
+            android:paddingTop="@dimen/dimen_11dp">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/style_today"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_20dp"
+                android:gravity="center"
+                app:srcCompat="@drawable/ic_before_wear_select"
+
+                />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/style_yourself_TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_6dp"
+                android:text="@string/Wear"
+                android:textSize="@dimen/dimen_12sp"
+                android:textColor="@color/color_000000"
+                android:alpha="0.54"
+
+                />
+        </LinearLayout>
+    <View
+        android:layout_width="@dimen/dimen_0.5dp"
+        android:layout_height="match_parent"
+        android:background="@color/color_0d000000"
+        ></View>
+    <LinearLayout
+        android:id="@+id/bookmark_pair_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/dimen_6dp"
+        android:paddingTop="@dimen/dimen_11dp">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/bookmark_icon_view"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_20dp"
+            android:gravity="center"
+            app:srcCompat="@drawable/ic_before_favorite"
+
+            />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/bookmark_TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_6dp"
+            android:text="@string/Bookmark"
+            android:textSize="@dimen/dimen_12sp"
+            android:textColor="@color/color_000000"
+            android:alpha="0.54"
+
+            />
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

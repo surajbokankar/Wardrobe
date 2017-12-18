@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="@dimen/dime_150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center|center_horizontal|center_vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_background"
+    >
+
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/pair_cloth_image_shirts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/ic_after_cloth_add"
+        android:layout_margin="@dimen/dimen_8dp"
+        />
+
+</LinearLayout>
+

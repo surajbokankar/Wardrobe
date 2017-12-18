@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/dimen_16dp"
+    >
+
+
+
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dime_56dp"
+        android:text="@string/addshirt"
+        android:drawableLeft="@drawable/ic_before_add_cloths"
+        android:background="@drawable/boarder_rounded_button"
+        android:padding="@dimen/dimen_16dp"
+        android:textSize="@dimen/dimen_14sp"
+        android:layout_centerVertical="true"
+        android:id="@+id/addShirts"
+        android:textColor="@color/color_D80027"
+
+        />
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dime_56dp"
+        android:text="@string/Pants"
+        android:drawableLeft="@drawable/ic_before_add_cloths"
+        android:background="@drawable/boarder_rounded_button"
+        android:padding="@dimen/dimen_16dp"
+        android:textSize="@dimen/dimen_14sp"
+        android:id="@+id/addPants"
+        android:layout_above="@id/addShirts"
+        android:layout_marginBottom="@dimen/dimen_16dp"
+        android:textColor="@color/color_D80027"
+
+        />
+</RelativeLayout>

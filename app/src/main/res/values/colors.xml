@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="launcherColor">#E91E63</color>
+    <color name="white">#FFFFFF</color>
+    <color name="google_button">#BC3428</color>
+    <color name="color_dc4e41">#dc4e41</color>
+    <color name="color_3c5a99">#3c5a99</color>
+    <color name="color_1D3D81">#1D3D81</color>
+    <color name="color_FFFDE7">#FFFDE7</color>
+    <color name="color_fbfbfb">#fbfbfb</color>
+    <color name="color_0d000000">#0d000000</color>
+    <color name="color_BC3428">#BC3428</color>
+    <color name="color_D80027">#D80027</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_dark_grey_transparent">#8a000000</color>
+
+
+
+</resources>

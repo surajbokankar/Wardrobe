@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683694678206",
+    "project_id": "firebase-stealth"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683694678206:android:282d529dd1b6a442",
+        "android_client_info": {
+          "package_name": "com.ecomm.suraj.clothpicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683694678206-d4kiiuscb6tbd7vln24p6ubvr3ovtp21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomm.suraj.clothpicker",
+            "certificate_hash": "093C858B8413B27BF744DA227364C3D858513A0B"
+          }
+        },
+        {
+          "client_id": "683694678206-jkad31t6fm8au4demdi9ri516rg3c6l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzOpVW_lmfbnvxgkjr46tLyhHR3vbT50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

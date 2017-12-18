@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_button_icon_blue.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_button_send_icon_blue.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_close.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_button_icon_white.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_blue_xout.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_black_xout.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/messenger_bubble_small_white.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_black_topnub.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_button_send_icon_white.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_favicon_white.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/messenger_bubble_large_white.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/release/drawable-mdpi/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png"
+    }
+]

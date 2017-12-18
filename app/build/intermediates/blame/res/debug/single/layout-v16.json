@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

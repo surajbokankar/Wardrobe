@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/button_google_selector.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/res/drawable-v21/button_google_selector.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/button_google_selector.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/drawable-v21/button_google_selector.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/button_facebook_selector.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/drawable-v21/button_facebook_selector.xml"
+    },
+    {
+        "merged": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/surajbokankar/Downloads/ClothPicker/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/button_facebook_selector.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/res/drawable-v21/button_facebook_selector.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

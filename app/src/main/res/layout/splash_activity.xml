@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/launcherColor"
+        >
+
+        <android.support.v7.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:text="@string/app_name"
+            android:textSize="@dimen/dime_26sp"
+            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+             android:layout_alignParentBottom="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/dime_56dp"
+             android:alpha="0.87"
+            android:textColor="@color/white"
+            />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

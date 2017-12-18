@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dime_56dp"
+        android:orientation="horizontal"
+        >
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            >
+
+            <RelativeLayout
+                android:id="@+id/ratingBarLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|center_horizontal"
+
+                android:gravity="center_horizontal"
+                >
+
+                <android.support.v7.widget.AppCompatRatingBar
+                    android:id="@+id/myRatingBar"
+                    style="?android:attr/ratingBarStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:clickable="false"
+                    android:isIndicator="true"
+                    android:numStars="5"
+                    android:layout_marginLeft="@dimen/dimen_16dp"
+                    android:layout_marginRight="10dp"
+                    />
+
+
+            </RelativeLayout>
+
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+
+            >
+            <RelativeLayout
+                android:id="@+id/orderLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+
+                android:layout_gravity="center"
+                android:gravity="center_horizontal"
+                >
+
+
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/image_total_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_8dp"
+                    android:layout_marginRight="3dp"
+                    app:srcCompat="@drawable/ic_like" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/total_order_now"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/image_total_icon"
+                    android:text="Orders"
+                    android:textSize="@dimen/dimen_12sp"
+
+                    />
+
+
+            </RelativeLayout>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            >
+            <RelativeLayout
+
+                android:id="@+id/likeLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                >
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/image_like_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dimen_16dp"
+                    android:layout_marginRight="3dp"
+                    app:srcCompat="@drawable/ic_heart" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/total_product_like"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/image_like_button"
+                    android:text="Likes"
+                    android:textSize="@dimen/dimen_12sp" />
+            </RelativeLayout>
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+
+</LinearLayout>

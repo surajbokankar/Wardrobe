@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pair_cloth_alyout"
+        >
+
+        <RelativeLayout
+            android:id="@+id/layout_like"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/add_shirts_button"
+                android:layout_width="@dimen/dime_20dp"
+                android:layout_height="@dimen/dime_20dp"
+                android:layout_marginLeft="@dimen/dime_26dp"
+                android:layout_marginTop="@dimen/dimen_16dp"
+                app:srcCompat="@drawable/ic_plus_button"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:padding="@dimen/dimen_2dp"
+                android:layout_centerVertical="true"
+                />
+
+
+            <android.support.v7.widget.AppCompatImageView
+                android:layout_width="@dimen/dime_26dp"
+                android:layout_height="@dimen/dime_26dp"
+                android:id="@+id/like_button"
+                android:padding="@dimen/dimen_12dp"
+                app:srcCompat="@drawable/ic_like"
+                android:layout_centerInParent="true"
+                />
+
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/add_pant_button"
+                android:layout_width="@dimen/dime_20dp"
+                android:layout_height="@dimen/dime_20dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dime_26dp"
+                android:layout_marginTop="@dimen/dimen_16dp"
+                app:srcCompat="@drawable/ic_plus_button"
+                android:layout_centerVertical="true"
+                android:padding="@dimen/dimen_2dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                />
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@id/layout_like"
+            >
+            <LinearLayout
+                android:id="@+id/layout_pair"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="@dimen/dimen_16dp"
+                android:gravity="center|center_horizontal|center_vertical"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/dime_26dp"
+                android:layout_weight="1"
+                >
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/pair_cloth_image_pants"
+                    android:layout_width="@dimen/dime_150dp"
+                    android:layout_height="@dimen/dime_150dp"
+                    app:srcCompat="@drawable/ic_like" />
+
+            </LinearLayout>
+
+            <View
+                android:id="@+id/layout_divider"
+                android:layout_width="@dimen/dimen_1dp"
+                android:layout_height="match_parent"
+                android:layout_below="@id/layout_pair"
+                android:alpha="0.54"
+                android:background="@color/color_dark_grey_transparent" />
+
+
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/pair_shuffle_button"
+                android:layout_width="@dimen/dime_20dp"
+                android:layout_height="@dimen/dime_20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/dimen_16dp"
+                app:srcCompat="@drawable/ic_exchange"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_margin="@dimen/dimen_16dp"
+                android:gravity="center|center_horizontal|center_vertical"
+                >
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/pair_cloth_image_shirts"
+                    android:layout_width="@dimen/dime_150dp"
+                    android:layout_height="@dimen/dime_150dp"
+                    android:layout_gravity="center_horizontal"
+                    app:srcCompat="@drawable/ic_after_cloth_add"
+
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/option_select_dialog_title"
+        android:text="@string/AddCloths"
+        android:gravity="center_horizontal|center_vertical|center"
+        android:layout_marginTop="@dimen/dimen_16dp"
+        android:layout_marginBottom="@dimen/dimen_16dp"
+        android:textColor="@color/color_000000"
+        android:alpha="0.57"
+        android:textSize="@dimen/dimen_14sp"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_1dp"
+        android:background="@color/color_dark_grey_transparent"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/dimen_16dp"
+        android:layout_marginRight="@dimen/dimen_16dp"
+        android:layout_marginTop="@dimen/dimen_12dp"
+        android:layout_marginBottom="@dimen/dimen_12dp"
+        >
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/click_photo"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dime_45dp"
+            android:layout_marginTop="@dimen/dimen_6dp"
+            android:gravity="center"
+            android:text="@string/click"
+            android:textSize="@dimen/dimen_12sp"
+            android:textColor="@color/white"
+            android:alpha="0.87"
+            android:background="@color/colorAccent"
+            />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/upload_photo"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dime_45dp"
+            android:layout_marginTop="@dimen/dimen_6dp"
+            android:gravity="center"
+            android:text="@string/upload"
+            android:textSize="@dimen/dimen_12sp"
+            android:textColor="@color/white"
+            android:alpha="0.87"
+            android:background="@color/colorAccent"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
