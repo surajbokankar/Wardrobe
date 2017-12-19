@@ -3900,11 +3900,7 @@ containing a value of this type.
         public static final int com_facebook_loginview_default_style=0x7f08018e;
         public static final int com_facebook_loginview_silver_style=0x7f08018f;
         public static final int crafts_toolbar_style=0x7f080190;
-        /** <item name="android:opacity">12</item>
-         */
         public static final int facebook_btn_style=0x7f080191;
-        /** <item name="android:opacity">12</item>
-         */
         public static final int google_btn_style=0x7f080192;
         public static final int tooltip_bubble_text=0x7f080193;
     }

@@ -21,5 +21,7 @@ public interface StyleSelfInterface {
 
     void getAllClothsList(UserSelectedCloths shirts);
 
+    void onBookMarkListSuccess(UserSelectedCloths cloths);
+
 
 }

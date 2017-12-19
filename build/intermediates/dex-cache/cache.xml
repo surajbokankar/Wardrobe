@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/suraj.bokankar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_c1373f15f847f29ae0c30de4a851db64871af446.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -36,123 +45,6 @@
         revision="24.0.1"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
         <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_81a7883b9ce8b3f5537f978f33f530d9862f0c42.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_f7060d596ba9991a7385f47dc54e66ec460cb0e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_5a39e1a1dd67d2e2479854ad00d2c0114e6a64a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bcb4a50f5e2c67b3e84441b1b2a239856776c9b8">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.10.0_69c5feb9e3ceaf2812ba5da569eaf132212968a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f50a5d736dab4f30509962ab28dc6c37e1139096.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_29512eaf9dbb2848c6dbc73bb850db8be43d31ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bc535105332645408ef5f1380215cc954b842178">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0_bbe28bd4d2b45fca2380fa2db16922e7e7ca58dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_d029389d3577ed448ae5b37650168e41f3e23afe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_f2fe2c5cf70af8f3079fa3bc9263e230f1f23bed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fbd83db7ecbf117fb360365b7b317d3e2fcee05c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_ad96528a7e4d4f0f62abd3993ed58a37b6be8939.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0_0d0f83da9f0dd3def5606066729dc4abefa86198.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_89e48dfaf54fa4c484f574df1274260605ed98e3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/suraj.bokankar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_c1373f15f847f29ae0c30de4a851db64871af446.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_f7060d596ba9991a7385f47dc54e66ec460cb0e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -210,12 +111,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_5a39e1a1dd67d2e2479854ad00d2c0114e6a64a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
         <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_10cb57c30e4e3782a2a520afcb14afcf8900bd89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bcb4a50f5e2c67b3e84441b1b2a239856776c9b8">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.10.0_69c5feb9e3ceaf2812ba5da569eaf132212968a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f50a5d736dab4f30509962ab28dc6c37e1139096.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,6 +165,42 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_99e1fa3c90c159bf7840a21b78e5a5c3d3deb6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_29512eaf9dbb2848c6dbc73bb850db8be43d31ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0_bbe28bd4d2b45fca2380fa2db16922e7e7ca58dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_d029389d3577ed448ae5b37650168e41f3e23afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -255,12 +219,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_f2fe2c5cf70af8f3079fa3bc9263e230f1f23bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fbd83db7ecbf117fb360365b7b317d3e2fcee05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_19e11bc63d664615e941d905f39aa7c1033c8569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_ad96528a7e4d4f0f62abd3993ed58a37b6be8939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0_0d0f83da9f0dd3def5606066729dc4abefa86198.jar" />
     </item>
     <item
         is-multidex="false"
@@ -279,6 +279,15 @@
         revision="24.0.1"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
         <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_f95058bf910539f1eda347b4b2a3b063da461042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/suraj.bokankar/Downloads/ cloth1234/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_89e48dfaf54fa4c484f574df1274260605ed98e3.jar" />
     </item>
 
 </items>

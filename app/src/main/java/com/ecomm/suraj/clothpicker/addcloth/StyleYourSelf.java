@@ -184,6 +184,11 @@ public class StyleYourSelf extends Fragment implements StyleSelfInterface, View.
           }
     }
 
+    @Override
+    public void onBookMarkListSuccess(UserSelectedCloths cloths) {
+
+    }
+
     private void createPantRecyclerView(UserSelectedCloths userSelectedCloths) {
         shirtRecycler.setLayoutManager(CommonUtility.getInstance().getHorizontalLayoutManager(getContext()));
         shirtList=getPantList(userSelectedCloths.addedShirtAndTShirt);

@@ -16,5 +16,7 @@ public interface StyleInteractorInterface {
 
     void getAllClothList();
 
+    void getAllBookMarkedPair();
+
 
 }

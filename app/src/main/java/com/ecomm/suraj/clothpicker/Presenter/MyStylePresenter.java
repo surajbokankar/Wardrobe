@@ -48,6 +48,11 @@ styleselfInteractor.saveBookMarkedPair(imageArray);
     }
 
     @Override
+    public void getBookMarkedList() {
+        styleselfInteractor.getAllBookMarkedPair();
+    }
+
+    @Override
     public void onStylePairedSuccess(Bitmap shirt, Bitmap pant) {
         Log.i(TAG, "onStylePairedSuccess: onIntractorSucces="+shirt);
        styleSelfInterface.onStylePairedSuccess(shirt,pant);
@@ -73,7 +78,10 @@ styleselfInteractor.saveBookMarkedPair(imageArray);
       styleSelfInterface.getAllClothsList(shirts);
     }
 
-
+    @Override
+    public void onBookMarkListSuccess(UserSelectedCloths cloths) {
+        styleSelfInterface.onBookMarkListSuccess(cloths);
+    }
 
 
 }

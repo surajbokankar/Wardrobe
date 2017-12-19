@@ -144,6 +144,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         }
         UserSelectedCloths cloths=new UserSelectedCloths();
         cloths.bookMarkedPair = bookMarkedList;
+
         if(bookMarkedList!=null&&bookMarkedList.size()>0){
             isBookMarkedPair=true;
         }

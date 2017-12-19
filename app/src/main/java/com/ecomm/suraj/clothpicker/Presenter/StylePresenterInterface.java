@@ -18,4 +18,6 @@ public interface StylePresenterInterface extends StyleSelfInterface {
 
     void getAllCloths();
 
+    void getBookMarkedList();
+
 }

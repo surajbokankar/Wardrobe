@@ -98,6 +98,11 @@ public class StyleselfInteractor  implements StyleInteractorInterface {
         presenterInterface.getAllClothsList(cloths);
     }
 
+    @Override
+    public void getAllBookMarkedPair() {
+        UserSelectedCloths cloths=helper.getBookMarkedPairDetails();
+        presenterInterface.onBookMarkListSuccess(cloths);
+    }
 
 
     private void getRandomPair(ArrayList<byte[]> pantList,ArrayList<byte[]> shirtList,int state) {

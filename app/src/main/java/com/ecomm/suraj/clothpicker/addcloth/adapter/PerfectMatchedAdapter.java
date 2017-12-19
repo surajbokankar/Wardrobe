@@ -1,6 +1,8 @@
 package com.ecomm.suraj.clothpicker.addcloth.adapter;
 
+import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.support.v7.widget.AppCompatImageView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.ecomm.suraj.clothpicker.R;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -19,8 +22,9 @@ import java.util.ArrayList;
 public class PerfectMatchedAdapter extends RecyclerView.Adapter<PerfectMatchedAdapter.CustomHolder> {
 
 
-    ArrayList<Bitmap>  bitmapList=null;
-    public PerfectMatchedAdapter(ArrayList<Bitmap> list){
+    ArrayList<byte[]>  bitmapList=null;
+    Context context=null;
+    public PerfectMatchedAdapter(ArrayList<byte[]> list){
         this.bitmapList=list;
     }
 
@@ -29,14 +33,16 @@ public class PerfectMatchedAdapter extends RecyclerView.Adapter<PerfectMatchedAd
         LayoutInflater layoutInflater=LayoutInflater.from(parent.getContext());
         View view=layoutInflater.inflate(R.layout.layout_content,parent,false);
         CustomHolder holder=new CustomHolder(view);
-
+        context=parent.getContext();
         return  holder;
     }
 
     @Override
     public void onBindViewHolder(CustomHolder holder, int position) {
         if(bitmapList!=null&&bitmapList.size()>0){
-            holder.imageView.setImageBitmap(bitmapList.get(position));
+            Bitmap bitmap= BitmapFactory.decodeByteArray(bitmapList.get(position),0,bitmapList.get(position).length);
+            //Picasso.with(context).load(bitmap.toString()).into(holder.imageView);
+            holder.imageView.setImageBitmap(bitmap);
         }
 
     }
@@ -51,7 +57,6 @@ public class PerfectMatchedAdapter extends RecyclerView.Adapter<PerfectMatchedAd
         public CustomHolder(View itemView) {
             super(itemView);
             imageView= (AppCompatImageView) itemView.findViewById(R.id.pair_cloth_image_shirts);
-            //layout= (LinearLayout) itemView.findViewById(R.id.layout_background);
         }
     }
 }

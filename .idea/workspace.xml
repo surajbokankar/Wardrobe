@@ -6,12 +6,57 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="createPantRecyclerView" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ad44f0-8f52-42cc-9e55-85c93c34a850" name="Default" comment="" />
+    <list default="true" id="44ad44f0-8f52-42cc-9e55-85c93c34a850" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/bR1_nacxfFSP_wkpq7fV4uaQ+cs=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/bR1_nacxfFSP_wkpq7fV4uaQ+cs=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_e1caceb46df2375544587a68988b08df82d88962.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_e1caceb46df2375544587a68988b08df82d88962.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter$CustomHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter$CustomHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/ecomm/suraj/clothpicker/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/ecomm/suraj/clothpicker/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java" />
+    </list>
     <ignored path="ClothPicker.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,21 +95,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StyleselfInteractor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java">
+      <file leaf-file-name="BookmarkedPairFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="870">
+              <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PerfectMatchedAdapter.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonUtility.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1635">
+              <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookmark_pair_layout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bookmark_pair_layout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectMatchedAdapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="386">
+              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +143,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="165">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -85,32 +153,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="Picasso.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/3f998a26355e4138e3e7a880a5dac57fc4370339/picasso-2.5.2-sources.jar!/com/squareup/picasso/Picasso.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            <state relative-caret-position="4020">
+              <caret line="328" column="24" lean-forward="false" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bitmap.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-25/android.jar!/android/graphics/Bitmap.class">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="114" column="93" lean-forward="false" selection-start-line="114" selection-start-column="93" selection-end-line="114" selection-end-column="93" />
+            <state relative-caret-position="570">
+              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStylePresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java">
+      <file leaf-file-name="layout_content.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_content.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+            <state relative-caret-position="270">
+              <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllPantsAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllPantsAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="49" column="56" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,43 +201,9 @@
       <file leaf-file-name="DataBaseHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1875">
-              <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+            <state relative-caret-position="1965">
+              <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SQLiteDatabase.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-25/android.jar!/android/database/sqlite/SQLiteDatabase.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2535">
-              <caret line="225" column="83" lean-forward="false" selection-start-line="225" selection-start-column="83" selection-end-line="225" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentValues.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-25/android.jar!/android/content/ContentValues.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="153" column="30" lean-forward="false" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
-              <folding>
-                <element signature="e#3734#3735#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SQLiteOpenHelper.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-25/android.jar!/android/database/sqlite/SQLiteOpenHelper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="32" column="49" lean-forward="false" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
-              <folding>
-                <element signature="e#1058#1059#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -188,6 +237,7 @@
       <find>like</find>
       <find>likePair</find>
       <find>onClick</find>
+      <find>adapter</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
@@ -2079,10 +2129,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/bottom_navigation_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/add_cloths_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/bookmark_pair_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/add_cloth_dialog_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/Constants.java" />
@@ -2109,11 +2157,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_add_shirt.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/model/ClothModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CustomDrawable.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/listener/OnItemSelectedListner.java" />
@@ -2122,14 +2165,21 @@
         <option value="$USER_HOME$/Library/Android/sdk/platforms/android-25/android.jar!/android/graphics/BitmapFactory.class" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllShirstAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/today_wear_cloth_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/UserSelectedCloths.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java" />
       </list>
     </option>
   </component>
@@ -2154,6 +2204,254 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Presenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dbhlper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addcloth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addcloth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClothPicker" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2404,6 +2702,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=" cloth1234" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=" cloth1234" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="dbhlper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2514,259 +2846,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Presenter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dbhlper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addcloth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clothpicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addcloth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="fragments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ClothPicker" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+              <option name="myItemId" value=" cloth1234" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=" cloth1234" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clothpicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="addcloth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -2777,13 +2900,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="AndroidmA&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/AndroidManifest.xml&#10;build&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/build.gradle&#10;bui&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/build.gradle&#10;User&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/Model/UserSelectedCloths.java&#10;Comm&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java&#10;Db&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java&#10;LoginA&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/login/LoginActivity.java&#10;AndroidMa&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/AndroidManifest.xml&#10;SplashAc&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;StyleIn&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java&#10;Pair&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/PairOfCloths.java&#10;LoginAc&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.login.LoginActivity&#10;Bookma&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java&#10;Main&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/MainActivity.java&#10;style&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java&#10;MainA&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.MainActivity&#10;Cons&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.utils.Constants&#10;String&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/strings.xml&#10;AddShirt&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;Book&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java&#10;Style&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java&#10;AddS&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;Add&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;AddCloth&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;HomeF&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalIconFactory.FileChooserHomeFolderIcon&#10;AddClo&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;R.ja&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/build/generated/source/r/debug/android/support/design/R.java&#10;Addcl&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;SplashA&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;Android&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/AndroidManifest.xml&#10;bookmark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bookmark_item_content_layout.xml&#10;Bookmark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bookmark_pair_layout.xml&#10;BookMark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java&#10;colo&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/colors.xml&#10;bott&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bottom_navigation_layout.xml&#10;bottom&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bottom_navigation_layout.xml&#10;selec&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/select_option_dialog_layout.xml&#10;dime&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/dimens.xml&#10;color&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/colors.xml&#10;Ad&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;Face&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/login/FacebookManager.java&#10;build.gra&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/build.gradle&#10;Facebook&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/login/FacebookManager.java&#10;String.xml&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/strings.xml&#10;Splash&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;Androi&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/AndroidManifest.xml&#10;Spla&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;MainActivitySpla&#9;null&#9;null&#10;Login&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.login.LoginActivity&#10;LOgin&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/login/LoginActivity.java" />
+    <property name="SearchEverywhereHistoryKey" value="AndroidmA&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/AndroidManifest.xml&#10;build&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/build.gradle&#10;CommonUt&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java&#10;bui&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/build.gradle&#10;User&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/Model/UserSelectedCloths.java&#10;Comm&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java&#10;Db&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java&#10;LoginA&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/java/com/ecomm/suraj/clothpicker/login/LoginActivity.java&#10;AndroidMa&#9;FILE&#9;file:///Users/suraj.bokankar/Downloads/ cloth1234/app/src/main/AndroidManifest.xml&#10;SplashAc&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;StyleIn&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java&#10;Pair&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/PairOfCloths.java&#10;LoginAc&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.login.LoginActivity&#10;Bookma&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java&#10;Main&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/MainActivity.java&#10;style&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java&#10;MainA&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.MainActivity&#10;Cons&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.utils.Constants&#10;String&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/strings.xml&#10;AddShirt&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;Book&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java&#10;Style&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java&#10;AddS&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;Add&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddShirtPants.java&#10;AddCloth&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;HomeF&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalIconFactory.FileChooserHomeFolderIcon&#10;AddClo&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;R.ja&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/build/generated/source/r/debug/android/support/design/R.java&#10;Addcl&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;SplashA&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;Android&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/AndroidManifest.xml&#10;bookmark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bookmark_item_content_layout.xml&#10;Bookmark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bookmark_pair_layout.xml&#10;BookMark&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java&#10;colo&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/colors.xml&#10;bott&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bottom_navigation_layout.xml&#10;bottom&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/bottom_navigation_layout.xml&#10;selec&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/layout/select_option_dialog_layout.xml&#10;dime&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/dimens.xml&#10;color&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/colors.xml&#10;Ad&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/AddCloths.java&#10;Face&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/login/FacebookManager.java&#10;build.gra&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/build.gradle&#10;Facebook&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/login/FacebookManager.java&#10;String.xml&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/res/values/strings.xml&#10;Splash&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;Androi&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/AndroidManifest.xml&#10;Spla&#9;FILE&#9;file:///Users/surajbokankar/Downloads/ClothPicker/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java&#10;MainActivitySpla&#9;null&#9;null&#10;Login&#9;PSI&#9;JAVA://com.ecomm.suraj.clothpicker.login.LoginActivity" />
     <property name="VectorAssetImportPath" value="$PROJECT_DIR$/.." />
     <property name="device.picker.selection" value="4200eff54fb8445d" />
     <property name="DEBUGGABLE_DEVICE" value="samsung-sm_g550fy-4200eff54fb8445d" />
@@ -2796,7 +2918,7 @@
     <property name="ExportApk.BuildType" value="release" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1513574713996" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1513670907962" />
     <property name="android.profiler.active" value="true" />
   </component>
   <component name="RecentsManager">
@@ -2933,7 +3055,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513574767836" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513675778365" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2981,7 +3103,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513574767836" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513675778365" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3143,7 +3265,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513574767837" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513675778368" />
       </method>
     </configuration>
     <list size="3">
@@ -3232,6 +3354,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3241,9 +3364,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30758017" sideWeight="0.10586552" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6443149" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2514045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21910113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33426967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3253,7 +3376,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4227528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4761236" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3320,21 +3443,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java</url>
-          <line>338</line>
+          <line>343</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java</url>
-          <line>332</line>
+          <line>337</line>
           <properties />
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllPantsAdapter.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java</url>
@@ -3354,37 +3471,26 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/select_option_dialog_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-compat/25.0.1/support-compat-25.0.1-sources.jar!/android/support/v4/content/ContextCompat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="447" column="22" lean-forward="false" selection-start-line="447" selection-start-column="22" selection-end-line="447" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/SplashActivity.java">
@@ -3402,13 +3508,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/socila_login_activity.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/CameraActivity.java">
@@ -3433,23 +3539,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_new_cloths_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#908#926#0" expanded="false" />
-          </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/boarder_rounded_button.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3464,7 +3566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="3154" column="32" lean-forward="false" selection-start-line="3154" selection-start-column="32" selection-end-line="3154" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3489,31 +3590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleYourSelfPresenter.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1-sources.jar!/android/support/annotation/Nullable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -3525,15 +3602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3541,7 +3609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3553,26 +3620,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_add_shirt.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="117" column="22" lean-forward="false" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_content.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-          <folding>
-            <element signature="e#724#742#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/listener/OnItemSelectedListner.java">
@@ -3617,99 +3671,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllPantsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="60" column="36" lean-forward="false" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2510#2984#0" expanded="true" />
-            <element signature="e#2983#2984#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="128" column="5" lean-forward="true" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bookmark_pair_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllShirstAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="54" column="52" lean-forward="false" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2534#3002#0" expanded="true" />
-            <element signature="e#3001#3002#0" expanded="true" />
-            <element signature="e#3334#3335#0" expanded="true" />
-            <element signature="e#3372#3373#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/today_wear_cloth_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="39" column="53" lean-forward="false" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-          <folding>
-            <element signature="e#720#738#0" expanded="true" />
-            <element signature="e#773#791#0" expanded="true" />
-            <element signature="e#1640#1658#0" expanded="true" />
-            <element signature="e#1693#1711#0" expanded="true" />
-            <element signature="e#1802#1820#0" expanded="true" />
-            <element signature="e#1858#1877#0" expanded="true" />
-            <element signature="e#2595#2613#0" expanded="true" />
-            <element signature="e#3557#3575#0" expanded="true" />
-            <element signature="e#3844#3862#0" expanded="true" />
-            <element signature="e#3893#3911#0" expanded="true" />
-            <element signature="e#4233#4251#0" expanded="true" />
-            <marker date="1513538378734" expanded="false" signature="2885:2904" ph="&quot;150dp&quot;" />
-            <marker date="1513538378734" expanded="false" signature="2943:2962" ph="&quot;150dp&quot;" />
-            <marker date="1513538378734" expanded="false" signature="4495:4514" ph="&quot;150dp&quot;" />
-            <marker date="1513538378734" expanded="false" signature="4553:4572" ph="&quot;150dp&quot;" />
-          </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/UserSelectedCloths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="248" column="33" lean-forward="false" selection-start-line="248" selection-start-column="33" selection-end-line="248" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3717,7 +3699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="114" column="93" lean-forward="false" selection-start-line="114" selection-start-column="93" selection-end-line="114" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3725,7 +3706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2535">
           <caret line="225" column="83" lean-forward="false" selection-start-line="225" selection-start-column="83" selection-end-line="225" selection-end-column="83" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3733,9 +3713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
           <caret line="153" column="30" lean-forward="false" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
-          <folding>
-            <element signature="e#3734#3735#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3743,50 +3720,149 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="32" column="49" lean-forward="false" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/BookmarkedPairFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleInteractorInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StyleSelfInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/StyleYourSelf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="182" column="46" lean-forward="false" selection-start-line="182" selection-start-column="46" selection-end-line="182" selection-end-column="46" />
           <folding>
-            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#9301#9557#0" expanded="true" />
+            <element signature="e#9556#9557#0" expanded="true" />
+            <element signature="e#9601#9861#0" expanded="true" />
+            <element signature="e#9860#9861#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/StylePresenterInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Presenter/MyStylePresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="282">
+          <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/Model/StyleselfInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="103" column="57" lean-forward="false" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bookmark_pair_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/AllPantsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="49" column="56" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/dbhlper/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/utils/CommonUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="121" column="5" lean-forward="false" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/fragments/BookmarkedPairFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/3f998a26355e4138e3e7a880a5dac57fc4370339/picasso-2.5.2-sources.jar!/com/squareup/picasso/Picasso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="328" column="24" lean-forward="false" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -3794,11 +3870,13 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ecomm/suraj/clothpicker/addcloth/adapter/PerfectMatchedAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="386">
+          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
